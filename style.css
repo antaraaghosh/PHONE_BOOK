@@ -1,0 +1,36 @@
+.form-container {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    margin-bottom: 20px;
+    padding: 5px;
+  }
+  
+  .phone-book-container {
+    width: 50%;
+    margin: 50px auto;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
