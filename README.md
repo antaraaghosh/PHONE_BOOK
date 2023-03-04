@@ -5,7 +5,7 @@ Use the following steps to clone project from GitHUB
 2.git checkout master
 3. git pull origin master
 
-4. GO to Project folder path via terminal and open .html file in browse
+4. GO to Project folder and open .html file in browser
 
 
 It will display the output
